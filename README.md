@@ -4,6 +4,11 @@ Victor Guerrero
 * java 21
 * docker and docker-compose
 
+## clone from repo
+```.
+git clone https://github.com/vguerrero/kitchensink.git
+```
+
 ## Compile
 go to root project and execute next command
 ```.
